@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">QuizArtApp</string>
+<string name="answer">Answer the following questions. Good luck!</string>
+<string name="questionHeader1">Question 1</string>
+<string name="question1">Name the art movement you see on the picture below.</string>
+<string name="question1answer1">Hyperrealism</string>
+<string name="question1answer2">Cubism</string>
+<string name="question1answer3">Tonalism</string>
+<string name="questionHeader2">Question 2</string>
+<string name="question2">Choose all the artists that created paintings in the above style.</string>
+<string name="question2answer1">Pablo Picasso</string>
+<string name="question2answer2">Juan Gris</string>
+<string name="question2answer3">Fernand Léger</string>
+<string name="questionHeader3">Question 3</string>
+<string name="question3">Type the title of this masterpiece.</string>
+<string name="question3hint">Type the title of the painting above</string>
+<string name="questionHeader4">Question 4</string>
+<string name="question4">Select the museum that owns the above painting.</string>
+<string name="question4answer1">MoMA in New York City</string>
+<string name="question4answer2">Tate Modern in London</string>
+<string name="question4answer3">Museo Reina Sofía in Madrid</string>
+<string name="question4answer4">The Guggenheim Museum in Bilbao</string>
+<string name="submit">Submit and see your results</string>
+</resources>
